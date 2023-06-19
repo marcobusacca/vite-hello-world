@@ -1,15 +1,15 @@
 <!-- SCRIPT JS -->
 <script>
-  // IMPORTO LA COMPONENTE APP TITLE
-  import AppTitle from './components/AppTitle.vue';
+// IMPORTO LA COMPONENTE APP TITLE
+import AppTitle from './components/AppTitle.vue';
 
-  export default {
-    // COMPONENTI
-    components:{
-      // DICHIARO LA COMPONENTE APP TITLE
-      AppTitle,
-    }
+export default {
+  // COMPONENTI
+  components: {
+    // DICHIARO LA COMPONENTE APP TITLE
+    AppTitle,
   }
+}
 </script>
 
 <!-- TEMPLATE HTML -->
@@ -22,5 +22,4 @@
 
 <!-- STYLE CSS -->
 <style scoped lang="">
-  
 </style>
