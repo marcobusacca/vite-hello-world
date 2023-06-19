@@ -21,6 +21,6 @@
 </template>
 
 <!-- STYLE CSS -->
-<style lang="">
+<style scoped lang="">
   
 </style>
